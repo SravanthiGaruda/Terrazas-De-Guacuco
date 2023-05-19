@@ -51,7 +51,7 @@ Various Components Used are:
   o	Along with these there are few other contents of the navbar.
 
 -	Visitor Services
-  o	Services provided are:\n
+  o	Services provided are:
     1.Create profile – The visitor profile data can be seen and edited.
     2.Register Vehicle – Visitor can register his/ her vehicle by entering the Driving license number (DL), apartment visiting (Apartment         Type – Number), Email ID and parking space number. Can perform Crud operations.
     3.Driving Instructions – Provides various rules which need to be followed by the visitors.
