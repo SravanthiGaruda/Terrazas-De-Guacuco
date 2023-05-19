@@ -52,14 +52,14 @@ Various Components Used are:
 
 -	Visitor Services
   o	Services provided are:
-    	Create profile – The visitor profile data can be seen and edited.
-    	Register Vehicle – Visitor can register his/ her vehicle by entering the Driving license number (DL), apartment visiting (Apartment         Type – Number), Email ID and parking space number. Can perform Crud operations.
-    	Driving Instructions – Provides various rules which need to be followed by the visitors.
-    	Register Incident/ Request – Visitor can request when he/ she must visit the complex, whereas register is used to raise their issues       faced during their time in the complex.
-    	Visitor Timings – Visitor timings of the complex are displayed.
-    	Navigate – Used this feature visitor can navigate around the complex by providing to and from locations.
-    	My Subscriptions – The visitors can subscribe to the events (pool, garden, tennis) by clicking on the notification icon. He/She can         also look at the events by clicking on the event title. They can also access the timings of the amenities by clicking on the timings       label provided.
-    	Chat with us – Where the visitor can chat with the management and others.
+    1.Create profile – The visitor profile data can be seen and edited.
+    2.Register Vehicle – Visitor can register his/ her vehicle by entering the Driving license number (DL), apartment visiting (Apartment         Type – Number), Email ID and parking space number. Can perform Crud operations.
+    3.Driving Instructions – Provides various rules which need to be followed by the visitors.
+    4.Register Incident/ Request – Visitor can request when he/ she must visit the complex, whereas register is used to raise their issues       faced during their time in the complex.
+    5.Visitor Timings – Visitor timings of the complex are displayed.
+    6.Navigate – Used this feature visitor can navigate around the complex by providing to and from locations.
+    7.My Subscriptions – The visitors can subscribe to the events (pool, garden, tennis) by clicking on the notification icon. He/She can         also look at the events by clicking on the event title. They can also access the timings of the amenities by clicking on the timings       label provided.
+    8.Chat with us – Where the visitor can chat with the management and others.
 
 -	Resident Services
   o	Services provided are:
